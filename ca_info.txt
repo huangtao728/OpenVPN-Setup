@@ -1,8 +1,8 @@
-CO
-ST
-CITY
-ORG
-ORG-UNIT
-COMMON-NAME
-NAME
-EMAIL
+CN
+Fujian
+Xiamen
+JHT
+CYSECDEPT
+backhaul.jht.io
+JHTSTUN
+csd@jht.io
